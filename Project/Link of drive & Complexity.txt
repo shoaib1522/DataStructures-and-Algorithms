@@ -1,0 +1,15 @@
+Link of Project(Search Engine):
+
+https://drive.google.com/drive/folders/1HyQ8R1xjz9_8gHRNw-wk42vKaP_aIlQx?usp=sharing
+
+_________________________________________________________________________________
+
+Worst-Case Time Complexity
+
+- Parsing Files: O(n) 
+- Building the BST:O(n) 
+- Handling a Query: O(log n)
+- Profiling Queries: O(log n)
+- Reporting Top Queries: O(1).
+
+________________________________________________________________________________

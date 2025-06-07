@@ -1,0 +1,21 @@
+Important Things For Exam(DSA-MID)
+
+
+These are the LeetCode practice tasks related to Link List and Stack. Please try to solve these tasks.
+
+https://leetcode.com/problems/min-stack/description/
+https://leetcode.com/problems/reorder-list/description/
+https://leetcode.com/problems/valid-parentheses/description/
+https://leetcode.com/problems/add-two-numbers/description/
+https://leetcode.com/problems/swap-nodes-in-pairs/description/
+https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/
+https://leetcode.com/problems/baseball-game/description/
+
+
+----------------------------------------------------------------------------
+
+
+For Practice best :
+https://www.programiz.com/dsa
+
+----------------------------------------------------------------------------
